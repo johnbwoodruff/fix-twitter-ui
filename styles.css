@@ -6,6 +6,10 @@
   border-radius: 4px !important;
 }
 
+#user-dropdown-toggle:before {
+  border-radius: 4px !important;
+}
+
 .DashboardProfileCard-avatarImage, .ProfileAvatar-image, .ProfileAvatar {
   border-radius: 7px !important;
 }
