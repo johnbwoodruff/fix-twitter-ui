@@ -1,7 +1,7 @@
 # Fix Twitter UI
 
-Make Twitter Great Again!
+Fix Twitter UI is a browser extension for Google Chrome that reverts the ugly insanely round new design of Twitter to its old normal look.
 
-## About this Extension
+What are you waiting for? Download [Fix Twitter UI](https://goo.gl/TyeQcN)!
 
-I, among many others, hate the new Twitter UI. Its rounded corners are absurd. So, this extension seeks to fix that! If you see a section of the UI I've missed, [submit an issue!](https://github.com/jbw91/fix-twitter-ui/issues)
+If you find something isn't working, or the circularness shows its ugly face again, [submit an issue](https://github.com/jbw91/fix-twitter-ui/issues)!
