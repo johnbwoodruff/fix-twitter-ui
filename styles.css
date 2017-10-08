@@ -21,3 +21,19 @@
 button, .EdgeButton {
   border-radius: 3px !important;
 }
+
+.DMAvatar {
+  border-radius: 4px !important;
+}
+
+.DMComposer-container {
+  border-radius: 0 !important;
+}
+
+.DirectMessage-attachmentContainer {
+  border-radius: 4px !important;
+}
+
+.DirectMessage-text, .DirectMessage-message {
+  border-radius: 4px !important;
+}
