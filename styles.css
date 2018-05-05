@@ -10,7 +10,7 @@
   border-radius: 4px !important;
 }
 
-.DashboardProfileCard-avatarImage, .ProfileAvatar-image, .ProfileAvatar {
+.DashboardProfileCard-avatarImage, .ProfileCard-avatarImage, .ProfileAvatar-image, .ProfileAvatar {
   border-radius: 7px !important;
 }
 
